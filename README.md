@@ -22,6 +22,9 @@ dotenv package to use environment variables
 bcrypt package to hash passwords.
 
 Deployed to Heroku:https://git.heroku.com/fierce-castle-81417.git
+ https://fierce-castle-81417.herokuapp.com
 screenshot:![Screenshot (27)](https://user-images.githubusercontent.com/78382681/119235708-dce09800-bb01-11eb-808a-4816344eb3e0.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/78382681/119235710-dfdb8880-bb01-11eb-81c2-79acc5f35ca2.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/78382681/120028979-75c05900-bfc3-11eb-8693-acf2c1251459.png)
 
+walkthrough video: https://drive.google.com/file/d/1xspYq0UFR3_9Rf29mBxM-Z3CyZ3hjmpN/view?usp=sharing
